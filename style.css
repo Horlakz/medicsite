@@ -20,7 +20,7 @@ main {
 
 /* first section */
 .bg-image-section {
-  background: url("./background-image.png") no-repeat center center/cover fixed;
+  background: url("./bg-image.jpg") no-repeat center center/cover fixed;
   object-fit: cover;
 }
 
@@ -73,7 +73,7 @@ main {
   place-items: center;
   width: 100%;
   text-align: center;
-  color: white;
+  color: black;
 }
 
 .content div {
